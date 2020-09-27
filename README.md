@@ -1,4 +1,4 @@
-The codes in run_analysis.R will perform the following steps:
+### The codes in run_analysis.R will perform the following steps:
 
 1. Download the dataset from the sources web site if it does not already exist in the working directory.
 2. Read both the train and test datasets and merge them into x(measurements), y(activity) and subject, respectively.
